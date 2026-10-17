@@ -38,8 +38,8 @@ portfolio-hub/
 | [DevOps](projetos-academicos/devops/) | Acadêmico | DevOps | [devops](https://github.com/leticiasza/devops) · [aula 4](https://github.com/leticiasza/devops_aula4ceub) · [aula 10](https://github.com/leticiasza/devopsaula10_leticia) |
 | [COUVE](projetos-academicos/couve/) | Acadêmico | Web | [COUVE](https://github.com/CAMPUSCEUB/COUVE) · [Back-end](https://github.com/camilabsky/couve-backend-webdev) |
 | [Meu Study Hub TI](projetos-academicos/study-hub-ti/) | Acadêmico | Estudos | [Código](https://github.com/leticiasza/Meu_Study_Hub_TI) |
-| [Consultório API](projetos-pessoais/consultorio-api/) | Pessoal | API | [Código](https://github.com/leticiasza/Consultorio_API) |
-| [FinCLI (Bootcamp 2)](projetos-pessoais/fincli-bootcamp2/) | Pessoal | CLI | [Código](https://github.com/leticiasza/fincli-bootcamp2) |
+| [Consultório API](projetos-pessoais/consultorio-api/) | Acadêmico | API | [Código](https://github.com/leticiasza/Consultorio_API) |
+| [FinCLI (Bootcamp 2)](projetos-pessoais/fincli-bootcamp2/) | Acadêmico | CLI | [Código](https://github.com/leticiasza/fincli-bootcamp2) |
 | [Extensão para Chrome (Bootcamp 2)](projetos-pessoais/bootcamp2-chrome-ext/) | Pessoal | JavaScript | [Código](https://github.com/leticiasza/bootcamp2-chrome-ext) |
 
 ## Versionamento
@@ -50,4 +50,4 @@ portfolio-hub/
 
 ## Autor
 
-SEU NOME COMPLETO, estudante no CEUB.
+Leticia De Souza De Almeida, estudante no CEUB.
