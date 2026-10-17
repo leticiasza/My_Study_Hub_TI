@@ -15,14 +15,13 @@ portfolio-hub/
 │   └── style.css
 ├── docs/
 ├── projetos-academicos/
-│   ├── minimax-pacman/
-│   ├── horta-comunitaria/
-│   ├── algoritmos-ordenacao/
-│   ├── banco-de-dados/
-│   ├── devops/
-│   ├── couve/
-│   └── study-hub-ti/
-└── projetos-pessoais/
+    ├── minimax-pacman/
+    ├── horta-comunitaria/
+    ├── algoritmos-ordenacao/
+    ├── banco-de-dados/
+    ├── devops/
+    ├── couve/
+    └── study-hub-ti/
     ├── consultorio-api/
     ├── fincli-bootcamp2/
     └── bootcamp2-chrome-ext/
