@@ -4,7 +4,6 @@ Repositório com meus projetos acadêmicos, versionados com Git e publicados no 
 
 **Página publicada:** https://leticiasza.github.io/My_Study_Hub_TI/
 **LinkedIn:** https://www.linkedin.com/in/SEU-PERFIL
-**Apresentação (5 min):** https://youtu.be/SEU-VIDEO
 
 ## Estrutura
 
