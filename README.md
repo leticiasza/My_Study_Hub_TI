@@ -3,7 +3,7 @@
 Repositório com meus projetos acadêmicos, versionados com Git e publicados no GitHub.
 
 **Página publicada:** https://leticiasza.github.io/My_Study_Hub_TI/
-**LinkedIn:** https://www.linkedin.com/in/SEU-PERFIL
+**LinkedIn:** https://br.linkedin.com/in/let%C3%ADcia-souza-82b485321
 
 ## Estrutura
 
