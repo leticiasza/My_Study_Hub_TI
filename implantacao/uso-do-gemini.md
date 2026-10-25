@@ -30,11 +30,12 @@ O Gemini foi usado como guia nas etapas abaixo. Para cada uma, registre o prompt
 > Liste as melhores práticas de segurança para um repositório público no GitHub: autenticação em dois fatores, proteção de branch, secret scanning, Dependabot, .gitignore e política de segurança (SECURITY.md). Dê o passo a passo para ativar cada uma.
 
 - **Resumo da resposta:** O Gemini apresentou o passo a passo de seis práticas: ativar a autenticação em dois fatores na conta; proteger a branch main exigindo Pull Request antes do merge; habilitar o Secret scanning para detectar chaves e senhas publicadas por engano; habilitar o Dependabot (alertas e atualizações de segurança) para dependências vulneráveis; criar um .gitignore para não enviar arquivos sensíveis como .env; e publicar um SECURITY.md com instruções para reportar falhas de segurança.
-- **O que apliquei:** Criei o arquivo .gitignore, que impede o envio de arquivos sensíveis como .env, chaves e pastas de dependências, e o arquivo SECURITY.md, que explica como reportar falhas de segurança de forma privada. Os dois estão na raiz do repositório. Ativei a autenticação em dois fatores na conta do GitHub usando um aplicativo autenticador e guardei os códigos de recuperação em local seguro.
+- **O que apliquei:** Criei o arquivo .gitignore, que impede o envio de arquivos sensíveis como .env, chaves e pastas de dependências, e o arquivo SECURITY.md, que explica como reportar falhas de segurança de forma privada. Os dois estão na raiz do repositório. Ativei a autenticação em dois fatores na conta do GitHub usando um aplicativo autenticador e guardei os códigos de recuperação em local seguro. Configurei a proteção da branch main, exigindo Pull Request antes de qualquer merge. Como o projeto é individual, não exigi aprovações de revisores.
 - **Print:**
   - ![Conversa com o Gemini sobre segurança](prints/gemini-3-seguranca.png)
   - ![Conversa com o Gemini sobre segurança](prints/gemini-3-seguranca2.png)
   - ![GitHub confirmando o 2FA ativado](prints/gemini-3-2fa.png)
+  - ![Regra de proteção da branch main](prints/gemini-3-branch.png)
 
 ## 4. Compartilhamento e colaboração
 
