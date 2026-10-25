@@ -40,12 +40,14 @@ O Gemini foi usado como guia nas etapas abaixo. Para cada uma, registre o prompt
 
 ## 4. Compartilhamento e colaboração
 
-**Prompt sugerido:**
-> Como documentar o fluxo de colaboração em um repositório GitHub (branches, commits, Pull Requests e revisão)? Gere um modelo de CONTRIBUTING.md e de template de Pull Request.
+**Prompt enviado:**
+> No GitHub, como documentar boas práticas de colaboração em um repositório público? Explique para que servem o CONTRIBUTING.md, o modelo de Pull Request (pull_request_template.md), o uso de branches, mensagens de commit padronizadas e issues, e como cada um ajuda quem for contribuir.
 
-- **Resumo da resposta:**
-- **O que apliquei:**
+- **Resumo da resposta:** O Gemini explicou cinco práticas de colaboração: o CONTRIBUTING.md como manual do projeto, que ensina a configurar o ambiente e quais regras seguir para contribuir; o modelo de Pull Request como um checklist automático que ajuda o colaborador a explicar o que mudou; as branches como espaço separado para criar e testar alterações sem quebrar a versão principal (main); os commits padronizados, com prefixos como fix: e feat:, que deixam o histórico de mudanças claro; e as issues como o lugar para registrar o que precisa ser corrigido ou melhorado antes de começar a programar.
+- **O que apliquei:** Criei o CONTRIBUTING.md na raiz do repositório e o modelo de Pull Request em .github/pull_request_template.md, que aparece preenchido com checklist sempre que abro um PR. Passei a trabalhar com branches separadas da main (docs/seguranca-gemini, docs/seguranca-final e docs/seguranca-codesecurity) e a usar mensagens de commit no padrão tipo: descrição. Como a main está protegida, todas as mudanças passam por Pull Request; os PRs #1 e #2 já foram mesclados e servem de evidência do fluxo.
 - **Print:**
+ - ![Conversa com o Gemini sobre colaboração](prints/gemini-4-colaboracao.png)
+
 
 ## 5. Testes antes do lançamento
 
