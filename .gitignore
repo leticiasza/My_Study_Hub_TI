@@ -1,0 +1,17 @@
+# Segredos e ambiente
+.env
+.env.*
+*.pem
+*.key
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependências e builds
+node_modules/
+__pycache__/
+venv/
+.venv/
