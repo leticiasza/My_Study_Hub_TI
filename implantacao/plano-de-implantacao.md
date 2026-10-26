@@ -8,32 +8,32 @@
 ## Fases
 
 ### 1. Planejamento
-- [ ] Plano de implantação escrito (este documento)
-- [ ] Gemini configurado como guia, com os prompts registrados em [uso-do-gemini.md](uso-do-gemini.md)
+- [x] Plano de implantação escrito (este documento)
+- [x] Gemini configurado como guia, com os prompts registrados em [uso-do-gemini.md](uso-do-gemini.md)
 
 ### 2. Ambiente GitHub e integração
-- [ ] Repositório dedicado ao projeto, com README, estrutura de pastas e tag `v1.0`
-- [ ] Projetos armazenados em `projetos-academicos/`, um README por projeto
-- [ ] Página publicada no GitHub Pages (branch `main`, pasta raiz)
+- [x] Repositório dedicado ao projeto, com README, estrutura de pastas e tag `v1.0`
+- [x] Projetos armazenados em `projetos-academicos/`, um README por projeto
+- [x] Página publicada no GitHub Pages (branch `main`, pasta raiz)
 
 ### 3. Gestão de usuários
-- [ ] Autenticação em dois fatores ativada na conta
+- [x] Autenticação em dois fatores ativada na conta
 - [ ] Colaboradores convidados com a permissão mínima necessária (Read, Triage ou Write)
 - [ ] Papéis documentados: quem pode ler, quem pode propor mudanças e quem pode aprovar
 
 ### 4. Segurança
-- [ ] Proteção da branch `main` (alteração só por Pull Request)
-- [ ] Alertas de dependências (Dependabot) e detecção de segredos (secret scanning) ativados
-- [ ] Nenhuma senha, chave ou `.env` no repositório; `.gitignore` configurado
-- [ ] Política de segurança publicada em [SECURITY.md](../SECURITY.md)
+- [x] Proteção da branch `main` (alteração só por Pull Request)
+- [x] Alertas de dependências (Dependabot) e detecção de segredos (secret scanning) ativados
+- [x] Nenhuma senha, chave ou `.env` no repositório; `.gitignore` configurado
+- [x] Política de segurança publicada em [SECURITY.md](../SECURITY.md)
 
 ### 5. Compartilhamento e controle de acesso
-- [ ] Repositório público com link de compartilhamento
-- [ ] Fluxo de colaboração documentado em [CONTRIBUTING.md](../CONTRIBUTING.md)
-- [ ] Modelo de Pull Request em `.github/pull_request_template.md`
+- [x] Repositório público com link de compartilhamento
+- [x] Fluxo de colaboração documentado em [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [x] Modelo de Pull Request em `.github/pull_request_template.md`
 
 ### 6. Testes e lançamento
-- [ ] Todos os links da página testados (projetos, READMEs, documentos)
+- [x] Todos os links da página testados (projetos, READMEs, documentos)
 - [ ] Página testada em janela anônima e no celular
 - [ ] Versão marcada com a tag `v2.0`
 
